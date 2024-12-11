@@ -1,5 +1,5 @@
 ![logo](https://github.com/Arbab-Mustafa/Arbab-Mustafa/blob/main/Yellow%20And%20Blue%20Modern%20Business%20LinkedIn%20Article%20Cover%20Image.png)
- <h3 align="center">Software Engineer & FullStack Developer</h3>
+ <h3 align="center">Software Engineer || FullStack Developer</h3>
  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arbab-mustafa&label=Profile%20views&color=0e75b6&style=flat" alt="arbab-mustafa" /> </p>
