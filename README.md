@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/kmarkhoor" target="blank"><img src="https://img.shields.io/twitter/follow/kmarkhoor?logo=twitter&style=for-the-badge" alt="kmarkhoor" /></a> </p>
 
-- 🌱 I’m currently learning **System Design & Project Management
+- 🌱 I’m currently learning **System Design & Project Management**
 
 - 👨‍💻 All of my projects are available at [https://www.arbabmustafa.com](https://www.arbabmustafa.com)
 
