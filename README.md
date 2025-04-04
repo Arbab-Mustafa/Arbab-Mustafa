@@ -1,4 +1,4 @@
-![logo](Yellow Monochrome Photo LinkedIn Banner.png)
+![logo](https://github.com/Arbab-Mustafa/Arbab-Mustafa/blob/main/Yellow%20Monochrome%20Photo%20LinkedIn%20Banner.png)
  <h3 align="center">Software Engineer || FullStack Developer</h3>
  
 
