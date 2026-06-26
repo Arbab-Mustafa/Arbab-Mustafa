@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/kmarkhoor" target="blank"><img src="https://img.shields.io/twitter/follow/kmarkhoor?logo=twitter&style=for-the-badge" alt="kmarkhoor" /></a> </p>
 
-- 🌱 I’m currently learning **Dev Ops & In depth SE Concept**
+- 🌱 I’m currently learning ** advanced DevOps, Deep AI concepts, and  in-depth Software Engineering**
 
 - 👨‍💻 All of my projects are available at [https://www.arbabmustafa.com](https://www.arbabmustafa.com)
 
 - 💬 Ask me about **Full Stack Development**
 
-- 📫 How to reach me **arbabmachi132@gmail.com**
+- 📫 How to reach me: **engrarbab58@gmail.com**
 
 - 📄 Know about my experiences [https://www.arbabmustafa.com](https://www.arbabmustafa.com)
 
