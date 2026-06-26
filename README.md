@@ -8,17 +8,8 @@
 
 <p align="left"> <a href="https://twitter.com/kmarkhoor" target="blank"><img src="https://img.shields.io/twitter/follow/kmarkhoor?logo=twitter&style=for-the-badge" alt="kmarkhoor" /></a> </p>
 
-- 🌱 I’m currently learning ** advanced DevOps, Deep AI concepts, and  in-depth Software Engineering**
-
-- 👨‍💻 All of my projects are available at [https://www.arbabmustafa.com](https://www.arbabmustafa.com)
-
-- 💬 Ask me about **Full Stack Development**
-
-- 📫 How to reach me: **engrarbab58@gmail.com**
-
-- 📄 Know about my experiences [https://www.arbabmustafa.com](https://www.arbabmustafa.com)
-
-- ⚡ Fun fact **I am always ready to learn new technologies.**
+- 🌱 Building RAG pipelines and LLM agents in production — FastAPI · LangChain · LangGraph · OpenAI
+- I am always ready to learn new technologies.
 
  
 
