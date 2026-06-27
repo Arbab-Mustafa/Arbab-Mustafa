@@ -8,8 +8,8 @@
 
 <p align="left"> <a href="https://twitter.com/kmarkhoor" target="blank"><img src="https://img.shields.io/twitter/follow/kmarkhoor?logo=twitter&style=for-the-badge" alt="kmarkhoor" /></a> </p>
 
-- 🌱 Building RAG pipelines and LLM agents in production — FastAPI · LangChain · LangGraph · OpenAI
-- I am always ready to learn new technologies.
+  Building RAG pipelines and LLM agents in production
+  Ask me about LangChain · FastAPI · RAG · LangGraph · OpenAI API
 
  
 
