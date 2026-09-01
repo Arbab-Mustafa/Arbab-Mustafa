@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Arbab 👋</h1>
 
 <h3 align="center">
-External AI Product Engineer for Supply Chain & Logistics SaaS
+AI Product Engineer for Supply Chain & Logistics SaaS
 </h3>
 
 I'm a full-stack engineer who enjoys building software that solves real operational problems.
