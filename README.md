@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Arbab 👋</h1>
 
 <h3 align="center">
-AI Product Engineer for Supply Chain & Logistics SaaS
+Full-Stack & AI Engineer | Document AI & RAG for Logistics / Supply Chain SaaS | Cut API latency 65% · 17+ client apps 
 </h3>
 
 I'm a full-stack engineer who enjoys building software that solves real operational problems.
